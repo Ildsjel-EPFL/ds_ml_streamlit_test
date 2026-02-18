@@ -1,0 +1,4 @@
+strteamlit
+pandas
+plotly
+matplotlib
